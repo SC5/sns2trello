@@ -1,0 +1,5 @@
+{
+    userToken: '-YOUR-SLACK-USER-TOKEN-',
+    channelToken: '-YOUR-SLACK-CHANNEL-TOKEN-',
+    domain: '-YOUR-SLACK-DOMAIN-'
+}
