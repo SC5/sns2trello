@@ -59,7 +59,7 @@ The function for posting to Slack is invoked by sending a message to the SNS top
 ## License
 
 Copyright (c) 2015 [SC5](http://sc5.io/), licensed for users and contributors under MIT license.
-https://github.com/sc5/grunt-bobrsass-boilerplate/blob/master/LICENSE-MIT
+https://github.com/SC5/sns2slack/blob/master/LICENSE-MIT
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/SC5/sc5-aws-lambda-boilerplate/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/SC5/sns2slack/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
