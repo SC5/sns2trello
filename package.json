@@ -1,7 +1,7 @@
 {
   "name": "sns2trello",
   "version": "0.9.0",
-  "description": "Publish SNS notifications to Slack",
+  "description": "Publish SNS notifications to Trello",
   "main": "src/index.js",
   "dependencies": {
     "node-trello": "^1.1.2"
