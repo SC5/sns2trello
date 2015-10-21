@@ -1,0 +1,4 @@
+{
+	"Role" : "arn:aws:iam::714374170300:role/lambda_basic_execution",
+	"Region" : "eu-west-1"
+}
